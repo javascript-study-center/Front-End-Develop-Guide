@@ -543,5 +543,3 @@ vim常用的插件：
 * [JavaScript引擎的性能优化](http://velocity.oreilly.com.cn/2015//2013/index.php?func=session&id=27)
 * [V8引擎中的hidden class](https://github.com/BE-FE/Blog/blob/master/blogs/V8%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84hidden%20class.md)
 * [JavaScript V8 性能小贴士](http://justjavac.com/javascript/2015/12/14/performance-tips-for-javascript-in-v8.html)
-
-## <a id="fed_community"></a> 社区

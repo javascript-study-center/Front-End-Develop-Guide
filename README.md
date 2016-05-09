@@ -1,15 +1,4 @@
 ##Front-End-Develop-Guide 前端开发指南
-
-创建此项目灵感从[SwiftGuide](https://github.com/ipader/SwiftGuide)而来，这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
-
-GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ｜欢迎开发者一起[维护](https://github.com/icepy/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/icepy/Front-End-Develop-Guide/issues/new)_
-
-> 想了解关于该指南及 前端开发 更多信息的同学，可以阅读短文《[致 Front-End Developers](https://github.com/icepy/Front-End-Develop-Guide/blob/master/2015letter.md)》。 想查看优秀的开源项目，可以访问[《Front-End Develop 项目精选》](https://github.com/icepy/Front-End-Develop-Guide/blob/master/Featured.md)。希望查看精选文章，可以访问[《Front-End Develop 文章精选》](https://github.com/icepy/Front-End-Develop-Guide/blob/master/Featured-Articles.md)。也欢迎企业招聘人才提供工作岗位(請附上薪資)，可以提交到[工作岗位](https://github.com/icepy/Front-End-Develop-Guide/issues/3)。
-
-由[@icepy](http://weibo.com/2455876310)负责整理
-
-**由于个人精力有限，不足之处还望大家多多包容与提供建议。**
-
 <span style="color:lightgray;font-size:12px"></span>
 
 ##目录
@@ -556,9 +545,3 @@ vim常用的插件：
 * [JavaScript V8 性能小贴士](http://justjavac.com/javascript/2015/12/14/performance-tips-for-javascript-in-v8.html)
 
 ## <a id="fed_community"></a> 社区
-
-访问：[社区列表](https://github.com/icepy/Front-End-Develop-Guide/blob/master/community.md)
-
-## <a id="fed_article"></a> 码农周刊JavaScript和前端部分优秀文章集合
-
-访问：[码农周刊JavaScript和前端部分优秀文章集合](https://github.com/icepy/Front-End-Develop-Guide/blob/master/Articles.md)
